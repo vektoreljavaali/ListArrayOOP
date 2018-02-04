@@ -68,6 +68,8 @@ public class OdevArray {
         Lmusteri.add(musteri);
         
         
+        
+        
         for(tblmusteri item : Lmusteri){
         
             System.out.println("müşterinin id.....: "+item.getId());
